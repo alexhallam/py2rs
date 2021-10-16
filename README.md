@@ -1411,6 +1411,43 @@ Explanation comes here.
 // rust code goes here
 ```
 
+
+### Build File Paths
+
+**Python**
+
+```python
+# python code goes here
+```
+
+**Rust**
+
+```rust
+// rust code goes here
+```
+
+### CSV operations
+
+#### Reading
+
+**Python**
+
+```python
+# python code goes here
+```
+
+**Rust**
+
+```rust
+// rust code goes here
+```
+
+#### Reading and Writing
+
+#### Selecting Columns
+
+#### Query Rows
+
 ---
 
 ## Credits
